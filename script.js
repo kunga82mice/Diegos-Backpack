@@ -3,7 +3,7 @@ $(".supplies1").slideToggle();
 });
 
 $(".bagpack").click(function()  {
-$(".supplies2").Toggle();
+$(".supplies2").slideToggle();
 });
 
 $(".bookbag").click(function()  {
